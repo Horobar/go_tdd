@@ -1,3 +1,3 @@
-module src
+module github.com/horobar/go_tdd
 
-go 1.18
+go 1.20
